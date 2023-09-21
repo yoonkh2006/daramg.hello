@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+  margin-top: 300px;
+}
+
+
+.first {
+  color: white;
+  text-align: center;
+  font-size: 100px;
+}
+
+.second {
+  color: gray;
+  text-align: center;
+  font-size: 100px;
+  transform: scaleY(-1);
+}
